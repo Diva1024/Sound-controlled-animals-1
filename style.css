@@ -1,0 +1,34 @@
+.aliens{
+    width:300;
+    height:400;
+}
+.copyright_footer{
+position: fixed;
+bottom:0;
+text-align: center;
+width:100%;
+background-color: greenyellow;
+color:black;
+font-size: 30px;
+text-shadow:5px 5px 5px darkgrey;
+font-family: 'Slabo 27px', serif;
+}
+body{
+    background-color: cyan;
+}
+#button{
+    width:500px;
+    font-size: 30px;
+    font-family: 'Slabo 27px', serif;
+}
+#result_label ,#result_confidence{
+    font-family: 'Slabo 27px', serif;
+    font-size:20px ;
+}
+h2, h1{
+    font-family: 'Slabo 27px', serif;
+}
+#ear_img{
+    height:400;
+    width:300;
+}
